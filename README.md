@@ -23,4 +23,4 @@ Welcome to my repository! I am a Junior Machine Learning Developer, and these ar
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 ## 🤝 Let's Connect!
-If you have a data classification or web scraping project, I am ready to help. Feel free to send me a Direct Message on Discord!  (discord username:siacodes)
+If you have a data classification or web scraping project, I am ready to help. Feel free to send me a Direct Message on Discord!  (discord username:x_siawash_x)
